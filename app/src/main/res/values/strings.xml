@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nena Finance</string>
+
+    <!-- Tela principal -->
+    <string name="btn_lancamentos">Lançamentos</string>
+    <string name="btn_relatorios">Relatórios</string>
+
+    <!-- Lançamentos -->
+    <string name="btn_salvar_lancamento">Salvar Lançamento</string>
+    <string name="btn_atualizar_lancamento">Atualizar Registro</string>
+    <string name="radio_entrada">Entrada</string>
+    <string name="radio_saida">Saída</string>
+
+    <!-- Relatórios -->
+    <string name="btn_filtrar">Filtrar</string>
+    <string name="btn_gerar_pdf">Gerar PDF</string>
+</resources>
