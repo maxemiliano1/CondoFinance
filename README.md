@@ -2,10 +2,6 @@
 
 Aplicativo Android desenvolvido em **Java** para controle de receitas e despesas de condomínio.
 
-Projeto da disciplina **Programação para Dispositivos Móveis**.
-
----
-
 ## 📱 Funcionalidades
 
 - Cadastro de receitas e despesas
