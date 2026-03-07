@@ -166,6 +166,7 @@ public class LancamentosActivity extends AppCompatActivity {
         editData.setText(gasto.getData());
         editDescricao.setText(gasto.getDescricao());
         editValor.setText(String.valueOf(gasto.getValor()));
+        editValor.setText(String.format(LOCALE_BR, "%.2f", gasto.getValor()));
 
         if (gasto.getTipo() == Gasto.TIPO_RECEITA) {
             groupTipo.check(R.id.radioEntrada);
